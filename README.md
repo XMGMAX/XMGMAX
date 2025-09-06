@@ -86,3 +86,5 @@ I'm a highly motivated professional with experience in **quantitative & qualitat
 
 ### ⚡ Fun Fact
 > I enjoy translating research insights into impactful UX designs, analyzing complex datasets, and building AI-powered solutions.
+
+<img src="./img1.jpg"><img src="./img2.jpg"><img src="./img3.jpg">
