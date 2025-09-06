@@ -27,7 +27,7 @@ I'm a highly motivated professional with experience in **quantitative & qualitat
 - Campaign Analysis & Optimization
 
 ### Coding & Machine Learning
-- Python, R, C, C++, Java, JavaScript
+- Python, R, C, C++, Java
 - Machine Learning & Deep Learning
 - TensorFlow, Keras, PyTorch
 - Data Analysis & Visualization (Pandas, NumPy, Matplotlib, Seaborn)
@@ -71,7 +71,6 @@ I'm a highly motivated professional with experience in **quantitative & qualitat
 - Artificial Neural Networks & Deep Learning
 - AI Prompt Engineering
 - Data Analytics & Visualization
-- Full-Stack Development
 - Cloud Computing (AWS & Azure)
 
 ---
