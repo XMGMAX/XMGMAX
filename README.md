@@ -12,6 +12,13 @@ I'm a highly motivated professional with experience in **quantitative & qualitat
 - Quantitative & Qualitative Research Methods
 - User Research & Usability Testing
 
+<!-- Humor image between sections -->
+<p align="center">
+<img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="200"/>
+<br>
+When you finally understand your research data
+</p>
+
 ### Design
 - User Experience Design (UED)
 - User Interface Design (UI)
@@ -21,18 +28,32 @@ I'm a highly motivated professional with experience in **quantitative & qualitat
 - Project Planning, Execution & Monitoring
 - Agile Methodologies
 
+<!-- Another humor image -->
+<p align="center">
+<img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="200"/>
+<br>
+When your ML model actually works
+</p>
+
 ### Digital Marketing
 - Social Media Marketing
 - Content Marketing
 - Campaign Analysis & Optimization
 
 ### Coding & Machine Learning
-- Python, R, C, C++, Java
+- Python, R, C, C++, Java, JavaScript
 - Machine Learning & Deep Learning
 - TensorFlow, Keras, PyTorch
 - Data Analysis & Visualization (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL & Data Wrangling
 - AI Prompt Engineering
+
+<!-- Third humor image -->
+<p align="center">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+<br>
+UX designer life in one gif
+</p>
 
 ### Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -52,6 +73,7 @@ I'm a highly motivated professional with experience in **quantitative & qualitat
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+
 
 ## 📊 GitHub Stats
 
