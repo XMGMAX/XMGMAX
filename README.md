@@ -2,44 +2,31 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=XMGMAX&color=blueviolet)](https://github.com/XMGMAX)
 
-I'm a highly motivated professional with experience in **quantitative & qualitative research, digital marketing, project management**, and **machine learning & coding**. I have a strong understanding of **UX principles**, including UX research, UX design (UED), and interface design (UI). I enjoy exploring **artificial neural networks, prompt engineering**, and building intelligent systems.
+I'm a highly motivated professional with experience in **quantitative & qualitative research, digital marketing, project management, coding, machine learning, and data analytics**. I enjoy building **AI-powered solutions** and translating insights into impactful **UX/UI designs**.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Proficiency
 
-### Research
-- Quantitative & Qualitative Research Methods
-- User Research & Usability Testing
+### UX & Design
+**User Experience Design (UED) | User Interface Design (UI) | Wireframing**  
+![UX Design](https://progress-bar.dev/90/?title=UX%20Design&color=blue)
 
-### Design
-- User Experience Design (UED)
-- User Interface Design (UI)
-- Wireframing & Prototyping
+### Coding & Programming
+**Python | R | C | C++ | Java | JavaScript**  
+![Coding](https://progress-bar.dev/85/?title=Coding&color=green)
 
-### Project Management
-- Project Planning, Execution & Monitoring
-- Agile Methodologies
+### Machine Learning & AI
+**Machine Learning | Deep Learning | TensorFlow | Keras | PyTorch | AI Prompt Engineering**  
+![ML](https://progress-bar.dev/80/?title=Machine%20Learning&color=orange)
 
-### Digital Marketing
-- Social Media Marketing
-- Content Marketing
-- Campaign Analysis & Optimization
-
-### Coding & Machine Learning
-- Python, JavaScript
-- Machine Learning & Deep Learning
-- TensorFlow, Keras, PyTorch
-- Data Analysis & Visualization (Pandas, NumPy, Matplotlib, Seaborn)
-- AI Prompt Engineering
+### Data Analytics & Visualization
+**Pandas | NumPy | Matplotlib | Seaborn | SQL | Data Wrangling & Visualization**  
+![Data Analytics](https://progress-bar.dev/85/?title=Data%20Analytics&color=red)
 
 ### Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![UXpressia](https://img.shields.io/badge/UXpressia-000000?style=for-the-badge&logo=UXpressia&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-FF7F00?style=for-the-badge&logo=miro&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Figma | UXpressia | Miro | VS Code | Git**  
+![Tools](https://progress-bar.dev/90/?title=Tools&color=purple)
 
 ---
 
@@ -60,6 +47,7 @@ I'm a highly motivated professional with experience in **quantitative & qualitat
 - Advanced UX/UI Design Patterns
 - Artificial Neural Networks & Deep Learning
 - AI Prompt Engineering
+- Data Analytics & Visualization
 - Full-Stack Development
 - Cloud Computing (AWS & Azure)
 
@@ -74,4 +62,4 @@ I'm a highly motivated professional with experience in **quantitative & qualitat
 ---
 
 ### ⚡ Fun Fact
-> I enjoy translating research insights into impactful UX designs and building AI-powered solutions that make a real difference.
+> I enjoy combining **UX insights, coding, and data analytics** to create **AI-powered solutions** that improve experiences and solve real-world problems.
