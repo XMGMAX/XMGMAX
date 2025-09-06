@@ -2,31 +2,54 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=XMGMAX&color=blueviolet)](https://github.com/XMGMAX)
 
-I'm a highly motivated professional with experience in **quantitative & qualitative research, digital marketing, project management, coding, machine learning, and data analytics**. I enjoy building **AI-powered solutions** and translating insights into impactful **UX/UI designs**.
+I'm a highly motivated professional with experience in **quantitative & qualitative research, digital marketing, project management, and machine learning & coding**. I have a strong understanding of **UX principles**, including UX research, UX design (UED), and interface design (UI). I enjoy exploring **artificial neural networks, prompt engineering**, and **data-driven solutions**.
 
 ---
 
-## 🛠️ Skills & Proficiency
+## 🛠️ Skills
 
-### UX & Design
-**User Experience Design (UED) | User Interface Design (UI) | Wireframing**  
-![UX Design](https://progress-bar.dev/90/?title=UX%20Design&color=blue)
+### Research
+- Quantitative & Qualitative Research Methods
+- User Research & Usability Testing
 
-### Coding & Programming
-**Python | R | C | C++ | Java | JavaScript**  
-![Coding](https://progress-bar.dev/85/?title=Coding&color=green)
+### Design
+- User Experience Design (UED)
+- User Interface Design (UI)
+- Wireframing & Prototyping
 
-### Machine Learning & AI
-**Machine Learning | Deep Learning | TensorFlow | Keras | PyTorch | AI Prompt Engineering**  
-![ML](https://progress-bar.dev/80/?title=Machine%20Learning&color=orange)
+### Project Management
+- Project Planning, Execution & Monitoring
+- Agile Methodologies
 
-### Data Analytics & Visualization
-**Pandas | NumPy | Matplotlib | Seaborn | SQL | Data Wrangling & Visualization**  
-![Data Analytics](https://progress-bar.dev/85/?title=Data%20Analytics&color=red)
+### Digital Marketing
+- Social Media Marketing
+- Content Marketing
+- Campaign Analysis & Optimization
+
+### Coding & Machine Learning
+- Python, R, C, C++, Java, JavaScript
+- Machine Learning & Deep Learning
+- TensorFlow, Keras, PyTorch
+- Data Analysis & Visualization (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL & Data Wrangling
+- AI Prompt Engineering
 
 ### Tools
-**Figma | UXpressia | Miro | VS Code | Git**  
-![Tools](https://progress-bar.dev/90/?title=Tools&color=purple)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![UXpressia](https://img.shields.io/badge/UXpressia-000000?style=for-the-badge&logo=UXpressia&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FF7F00?style=for-the-badge&logo=miro&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -62,4 +85,4 @@ I'm a highly motivated professional with experience in **quantitative & qualitat
 ---
 
 ### ⚡ Fun Fact
-> I enjoy combining **UX insights, coding, and data analytics** to create **AI-powered solutions** that improve experiences and solve real-world problems.
+> I enjoy translating research insights into impactful UX designs, analyzing complex datasets, and building AI-powered solutions.
