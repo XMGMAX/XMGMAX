@@ -56,7 +56,7 @@ I'm a highly motivated professional with experience in **quantitative & qualitat
 
 ## 📊 GitHub Stats
 
-![XMGMAX's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashankKumarSaxena&show_icons=true&theme=radical)
+![XMGMAX's GitHub stats](https://github-readme-stats.vercel.app/api?username=XMGMAX&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XMGMAX&layout=compact&theme=radical)
 
 ---
