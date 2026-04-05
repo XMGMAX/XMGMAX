@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=DEVANSH%20GUPTA&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20Practitioner%20%7C%20UX%20Lead%20%7C%20XMGMAX&descAlignY=62&descSize=18&descColor=ccbbff"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=A855F7&center=true&vCenter=true&width=750&lines=Building+things+that+think+%F0%9F%A7%A0;ML+Engineer+%26+Kaggle+Competitor+%F0%9F%8F%86;UX+Lead+%40+Google+Developer+Student+Clubs+%F0%9F%8E%A8;Vision+Transformers+%7C+Random+Forests+%7C+FastAPI+%F0%9F%9A%80;I+train+models+AND+design+the+UI+for+them+%F0%9F%94%A5)](https://github.com/XMGMAX)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=A855F7&center=true&vCenter=true&width=750&lines=Building+things+that+think+%F0%9F%A7%A0;ML+Engineer+%26+Kaggle+Competitor+%F0%9F%8F%86;UX+Lead+%40+Google+Developer+Student+Clubs+%F0%9F%8E%A8;Vision+Transformers+%7C+Random+Forests+%7C+FastAPI+%F0%9F%9A%80)](https://github.com/XMGMAX)
 
 <br/>
 
@@ -26,15 +26,9 @@
 
 🤖 &nbsp;Fine-tuning transformers, stacking ensembles, and deploying to production
 
-🌍 &nbsp;My NASA POWER climate model covers **15 Indian cities** with F1 = **0.8746**
-
-📡 &nbsp;Built & published **KaggleNotify** — a Telegram alert library on PyPI
-
 🏆 &nbsp;**IEEE First Runner-Up** · Stanford ML Certified · AWS Certified
 
 🌱 &nbsp;Currently exploring Vision Transformers, prompt engineering & cloud architecture
-
-⚡ &nbsp;Fun fact: I train the model AND design the UI for it
 
 <br clear="right"/>
 
@@ -100,25 +94,37 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Timeline
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XMGMAX/XMGMAX/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XMGMAX/XMGMAX/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/XMGMAX/XMGMAX/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XMGMAX&theme=radical" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XMGMAX&theme=radical" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XMGMAX&theme=radical" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=XMGMAX&theme=radical&utcOffset=5.5" width="32%"/>
 
 </div>
 
 ---
 
-## 🌐 3D Contribution Globe
+## 🎯 Tech Stack at a Glance
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/XMGMAX/XMGMAX/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&perline=4)](https://skillicons.dev)
+
+**Core ML / AI**
+
+[![Skills](https://skillicons.dev/icons?i=react,vite,fastapi,docker,aws,vercel,kubernetes,nginx&perline=8)](https://skillicons.dev)
+
+**Web, DevOps & Cloud**
+
+[![Skills](https://skillicons.dev/icons?i=git,github,figma,opencv,postgres,redis,linux,vscode&perline=8)](https://skillicons.dev)
+
+**Tools & Ecosystem**
 
 </div>
 
@@ -214,27 +220,6 @@
 | 🟡 AI Prompt Engineering & Chain-of-Thought | ![80%](https://img.shields.io/badge/80%25-EF9F27?style=flat-square) |
 | ☁️ AWS & Cloud Architecture | ![50%](https://img.shields.io/badge/50%25-46E3B7?style=flat-square) |
 | 🏆 Kaggle Grandmaster Path | ![40%](https://img.shields.io/badge/40%25-20BEFF?style=flat-square) |
-
-</div>
-
----
-
-## 💡 Random Facts About Me
-
-<div align="center">
-
-| &nbsp; | Fact |
-|:---:|:---|
-| 🔬 | I built a Telegram notification library because I missed a training run finishing at 3am. Now it's on PyPI. |
-| 🐦 | My ViT model classifies 200 bird species live on HuggingFace — real inference, real users. |
-| 🌍 | My NASA POWER climate model analyzes satellite data across 15 Indian cities for food security risk. |
-| 🎨 | I'm both a coder and a designer — rare combo in a CS degree. UX Lead + ML engineer simultaneously. |
-| 🏆 | Won IEEE First Runner-Up with HandSpeak, a gesture recognition system for the deaf & mute community. |
-| 📊 | My Kaggle OOF score (0.9165) is higher than my LB score (0.9138) — the model generalizes well. |
-| 🤗 | I have a live deployed model on HuggingFace Spaces with Docker, port 7860, serving real predictions. |
-| ⚡ | I use AWS, Docker, Vercel, and Render in the same project. Some call it overkill. I call it thorough. |
-| 🧠 | I've fine-tuned ViT-B/16 with gradual unfreezing — layer by layer, not all at once. |
-| 🎓 | Certified by Stanford, AWS, and IIT Bhubaneswar — all while competing on Kaggle. |
 
 </div>
 
