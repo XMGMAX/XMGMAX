@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- ANIMATED WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=DEVANSH%20GUPTA&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=38&desc=%3E%20ML%20Engineer%20%7C%20AI%20Practitioner%20%7C%20UX%20Lead%20%7C%20XMGMAX&descAlignY=62&descSize=18&descColor=ccbbff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=DEVANSH%20GUPTA&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20Practitioner%20%7C%20UX%20Lead%20%7C%20XMGMAX&descAlignY=62&descSize=18&descColor=ccbbff"/>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=A855F7&center=true&vCenter=true&width=750&lines=Building+things+that+think+%F0%9F%A7%A0;ML+Engineer+%26+Kaggle+Competitor+%F0%9F%8F%86;UX+Lead+%40+Google+Developer+Student+Clubs+%F0%9F%8E%A8;Vision+Transformers+%7C+Random+Forests+%7C+FastAPI+%F0%9F%9A%80;Deployed+on+HuggingFace+%7C+Vercel+%7C+Render+%E2%98%81%EF%B8%8F;I+train+models+AND+design+the+UI+for+them+%F0%9F%94%A5)](https://github.com/XMGMAX)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=A855F7&center=true&vCenter=true&width=750&lines=Building+things+that+think+%F0%9F%A7%A0;ML+Engineer+%26+Kaggle+Competitor+%F0%9F%8F%86;UX+Lead+%40+Google+Developer+Student+Clubs+%F0%9F%8E%A8;Vision+Transformers+%7C+Random+Forests+%7C+FastAPI+%F0%9F%9A%80;I+train+models+AND+design+the+UI+for+them+%F0%9F%94%A5)](https://github.com/XMGMAX)
 
 <br/>
 
@@ -18,199 +16,59 @@
 
 ---
 
-<!-- ABOUT + GIF -->
 <img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### `> whoami`
+## 👋 About Me
 
-```python
-class Devansh:
-    name      = "Devansh Gupta"
-    alias     = "XMGMAX"
-    location  = "Greater Noida, India 🇮🇳"
+🎯 &nbsp;ML Engineer passionate about building AI systems that **actually ship**
 
-    roles = [
-        "🎨  UX Lead @ Google DSC",
-        "⚖️  Head of Design — Law Dept",
-        "🚀  Incubation Cell Member",
-    ]
+🎨 &nbsp;**UX Lead** at Google Developer Student Clubs — bridging code and design
 
-    interests = [
-        "Deep Learning & Neural Nets",
-        "Human-Centered Design (UXR + UED)",
-        "Competitive ML — Kaggle grind",
-        "AI Prompt Engineering",
-        "Data-driven storytelling",
-    ]
+🤖 &nbsp;Fine-tuning transformers, stacking ensembles, and deploying to production
 
-    current_build = "Climate × Food Security Classifier"
-    best_f1       = 0.8746    # NASA POWER × 15 Indian cities
-    kaggle_auc    = 0.9138    # PS S6E3 — Customer Churn
-    fun_fact      = "I train models AND design the UI for them 🔥"
-```
+🌍 &nbsp;My NASA POWER climate model covers **15 Indian cities** with F1 = **0.8746**
+
+📡 &nbsp;Built & published **KaggleNotify** — a Telegram alert library on PyPI
+
+🏆 &nbsp;**IEEE First Runner-Up** · Stanford ML Certified · AWS Certified
+
+🌱 &nbsp;Currently exploring Vision Transformers, prompt engineering & cloud architecture
+
+⚡ &nbsp;Fun fact: I train the model AND design the UI for it
 
 <br clear="right"/>
 
 ---
 
-<!-- RANDOM COOL FACTS SECTION -->
-## 🎲 Random Cool Facts About Me
+## 🚀 Quick Stats
 
-> _Refresh for a new one — or just read all of them, I don't judge._
+<div align="center">
 
-```
-💡  I published a Python library to PyPI — KaggleNotify sends Telegram alerts
-    when your training run finishes. No more staring at the screen.
+| 🧠 Best F1 Score | 🏆 Kaggle ROC-AUC | 🐦 Species Classified | 📦 Libraries Published |
+|:---:|:---:|:---:|:---:|
+| **0.8746** | **0.9138** | **200** | **1 on PyPI** |
 
-🧠  I fine-tuned a Vision Transformer (ViT-B/16) to classify 200 bird species.
-    The model lives on HuggingFace Spaces — try it at xmgmax0/bird-classifier.
-
-🌍  My NASA POWER climate project covers 15 Indian cities. The Random Forest
-    model predicts food security risk with an F1 score of 0.8746.
-
-🏆  Won First Runner-Up at IEEE Code Craft IGNITE FEST 2023 — out of hundreds
-    of participants. The trophy sits right next to my mechanical keyboard.
-
-🎨  I'm both a coder and a designer. I lead UX at Google DSC and Head of Design
-    for the Law Department — rare combo in a CS degree.
-
-🤗  I have a live model on HuggingFace. Real inference, real users, real pride.
-
-📡  KaggleNotify was born from frustration — I missed a training run finishing
-    while I was asleep. Built the fix in a weekend. It's on PyPI now.
-
-🔬  I've competed in Kaggle Playground Series with GBDT ensembles, Optuna
-    hyperparameter tuning, pseudo-labeling, and pairwise target encoding.
-
-🐦  HandSpeak is my gesture recognition project for deaf/mute communication.
-    Sometimes I forget most people just use keyboards.
-
-⚡  I use AWS, Docker, Vercel, and Render in the same project. Maximalist.
-```
+</div>
 
 ---
 
-<!-- PROJECTS -->
 ## ⚡ Flagship Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🌍 Climate × Food Security
-> Random Forest classifier for food security risk across **15 Indian cities** using NASA POWER satellite data.
+| Project | Description | Stack | Status |
+|:---|:---|:---|:---:|
+| 🌍 **Climate × Food Security** | Random Forest risk classifier across 15 Indian cities using NASA POWER data | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![sklearn](https://img.shields.io/badge/-sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | 🔨 Building |
+| 🐦 **BirdVision 200** | Fine-tuned ViT-B/16 Vision Transformer — 200 species, live on HuggingFace Spaces | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![HF](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square) | ✅ Live |
+| 🤟 **HandSpeak** | Real-time gesture recognition for deaf & mute communication — IEEE award winner | ![TF](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square) | ✅ Done |
+| 📡 **KaggleNotify** | Telegram push notifications for Kaggle training runs — published to PyPI | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white) | ✅ PyPI |
+| 👁️ **Smart Attendance** | Vision-based facial recognition attendance system — no more manual roll-call | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ✅ Done |
+| 🌸 **Petals to the Metal** | 104-class flower classification with EfficientNetB3, cosine annealing & TTA | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TPU](https://img.shields.io/badge/-TPU-4285F4?style=flat-square&logo=google&logoColor=white) | 🔨 Active |
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![sklearn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-```
-F1 Score   ████████████████████░  0.8746
-Accuracy   ███████████████████░░  ~91%
-Cities     15 across India
-Data src   NASA POWER API
-```
-
-🔨 `Status: In Progress` · Deploy: Vercel + Render
-
-</td>
-<td width="50%">
-
-### 🐦 BirdVision — 200 Species
-> Fine-tuned **ViT-B/16** Vision Transformer on CUB-200-2011 with gradual unfreezing, cosine annealing & TTA.
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logoColor=black)
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-
-```
-Classes    200 bird species (CUB-200-2011)
-Arch       ViT-B/16 fine-tuned, gradual unfreeze
-Deploy     HF Spaces (Docker, port 7860) + Vercel
-```
-
-✅ `Live` · [![Demo](https://img.shields.io/badge/🤗-Live_Demo-FFD21E?style=flat-square)](https://huggingface.co/spaces/xmgmax0/bird-classifier) [![Repo](https://img.shields.io/badge/GitHub-bird--app-181717?style=flat-square&logo=github)](https://github.com/XMGMAX/bird-app)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤟 HandSpeak
-> Real-time **gesture recognition** system enabling communication for the deaf and mute community using CV + CNN.
-
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square)
-
-```
-Pipeline   Camera → MediaPipe → CNN → Label
-Purpose    ♿ Accessibility technology
-Award      IEEE Competition entry
-```
-
-✅ `Complete` · IEEE IGNITE FEST 2023 — 🥈 First Runner-Up
-
-</td>
-<td width="50%">
-
-### 📡 KaggleNotify
-> Telegram push notification library for Kaggle training runs. Never stare at a screen waiting again.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![PyPI](https://img.shields.io/badge/-PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)
-
-```bash
-pip install kaggle-notify
-# Secrets: TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID
-```
-
-✅ `Published on PyPI` · [![Repo](https://img.shields.io/badge/GitHub-kaggle--notify-181717?style=flat-square&logo=github)](https://github.com/XMGMAX/kaggle-notify)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 👁️ Intelligent Attendance System
-> Vision-based attendance tracking using facial recognition. Replaces manual roll-call for classrooms.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-```
-Input    Webcam / camera feed
-Output   Auto attendance sheet
-Tech     Face detection + recognition CNN
-```
-
-</td>
-<td width="50%">
-
-### 🏆 Kaggle — Petals to the Metal
-> 104-class flower classification. EfficientNetB3 with cosine annealing, label smoothing & TTA targeting 0.98+ macro F1.
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TPU](https://img.shields.io/badge/-TPU-4285F4?style=flat-square&logo=google&logoColor=white)
-
-```
-Model      EfficientNetB3
-Target     macro F1 ≥ 0.98
-Tricks     Label smoothing + TTA + cosine LR
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<!-- GITHUB STATS -->
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -221,49 +79,51 @@ Tricks     Label smoothing + TTA + cosine LR
 </div>
 
 <div align="center">
+
 <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=XMGMAX&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=ffffff&dates=888888&border_radius=10"/>
+
 </div>
 
 <div align="center">
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=XMGMAX&theme=react-dark&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ff6b6b&area=true&area_color=a855f7"/>
+
 </div>
 
 <div align="center">
 
 ### 🏆 GitHub Trophies
+
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=XMGMAX&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 
 </div>
 
 ---
 
-<!-- SNAKE -->
 ## 🐍 Contribution Snake
 
 <div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XMGMAX/XMGMAX/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XMGMAX/XMGMAX/output/github-contribution-grid-snake.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/XMGMAX/XMGMAX/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-> 💡 Enable with [Platane/snk](https://github.com/Platane/snk) GitHub Action in your profile repo.
 </div>
 
 ---
 
-<!-- 3D CONTRIBUTION -->
 ## 🌐 3D Contribution Globe
 
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/XMGMAX/XMGMAX/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
-> 💡 Enable with [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) GitHub Action.
 </div>
 
 ---
 
-<!-- TECH STACK -->
 ## 🧠 Tech Arsenal
 
 <div align="center">
@@ -302,7 +162,7 @@ Tricks     Label smoothing + TTA + cosine LR
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### 🎨 Design & Research
+### 🎨 Design & UX
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-FF7F00?style=for-the-badge&logo=miro&logoColor=white)
 ![UXpressia](https://img.shields.io/badge/UXpressia-000000?style=for-the-badge&logoColor=white)
@@ -311,98 +171,75 @@ Tricks     Label smoothing + TTA + cosine LR
 
 ---
 
-<!-- SKILL BARS -->
-## 📈 Skill Depth
-
-```
- Python & Scripting    ██████████████████████░░  92%  ⭐ Primary Language
- Machine Learning      ██████████████████████░░  90%  🤖 Core Domain
- Deep Learning / CV    ████████████████████░░░░  84%  🧠 Transformers + CNNs
- UX / UI Design        ████████████████████░░░░  82%  🎨 Human-Centered Design
- Data Analysis & Viz   ████████████████████░░░░  84%  📊 Pandas + Seaborn + Plotly
- Prompt Engineering    ████████████████████░░░░  80%  🧬 LLMs, RAG, Chain-of-Thought
- React / Vite          ██████████████████░░░░░░  74%  ⚛️  Frontend Dev
- FastAPI + Docker      ████████████████░░░░░░░░  68%  🐳 Backend & Containerization
- Kaggle Competitive    ███████████████░░░░░░░░░  62%  🏆 Ensembling, Optuna, Stacking
- AWS / Cloud           ████████████░░░░░░░░░░░░  52%  ☁️  Certified + Growing
- C++ / DSA             █████████████░░░░░░░░░░░  55%  🔧 Algorithms & Data Structures
-```
-
----
-
-<!-- KAGGLE SECTION -->
-## 🏅 Kaggle Competitive ML
+## 🏅 Kaggle Track Record
 
 <div align="center">
 
-| Competition | Approach | Score |
+| Competition | Strategy | Score |
 |:---|:---|:---:|
 | 🥊 **PS S6E3 — Customer Churn** | GBDT ensemble · Optuna · pseudo-labeling · pairwise target encoding · stacking | **0.9138** ROC-AUC |
 | 🌸 **Petals to the Metal** | EfficientNetB3 · cosine annealing · label smoothing · TTA | targeting **0.98+** F1 |
 
 </div>
 
-```
-Kaggle OOF Score (S6E3)   █████████████████████░  0.9165
-Kaggle LB Score  (S6E3)   █████████████████████░  0.9138
-Target F1 (Petals)        ████████████████████░░  0.98+
-```
-
 ---
 
-<!-- ACHIEVEMENTS -->
 ## 🎖️ Achievements & Certifications
 
 <div align="center">
 
-| Badge | Achievement | Details |
+| &nbsp; | Achievement | Issuer |
 |:---:|:---|:---|
-| 🥈 | **First Runner-Up — Code Craft IGNITE FEST 2023** | IEEE Competition · HandSpeak project |
-| 🎓 | **Machine Learning Specialization** | Stanford University · Andrew Ng · Coursera |
-| ☁️ | **AWS Cloud Practitioner** | Amazon Web Services · Certified |
-| 🎓 | **Deep Learning Certification** | IIT Bhubaneswar · Architectures, loss fn, optimizers |
-| 🏅 | **UX Lead — Google DSC** | Google Developer Student Clubs |
-| 🤗 | **Live Model — HuggingFace** | `xmgmax0/bird-classifier` · 200 species |
-| 📦 | **Published Python Library** | `kaggle-notify` on PyPI |
+| 🥈 | **First Runner-Up — Code Craft IGNITE FEST 2023** | IEEE |
+| 🎓 | **Machine Learning Specialization** | Stanford University · Andrew Ng |
+| ☁️ | **AWS Cloud Practitioner Certified** | Amazon Web Services |
+| 🎓 | **Deep Learning Certification** | IIT Bhubaneswar |
+| 🏅 | **UX Lead — Google Developer Student Clubs** | Google |
+| 🤗 | **Live Model — HuggingFace Spaces** | `xmgmax0/bird-classifier` |
+| 📦 | **Published Python Library on PyPI** | `kaggle-notify` |
 
 </div>
 
 ---
 
-<!-- CURRENTLY EXPLORING -->
 ## 🌱 Currently Exploring
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│  ◉  Full-Stack ML Deployment (FastAPI + React + Docker)          │
-│     ████████████████░░░░░░  62% — actively building             │
-│                                                                  │
-│  ◉  Advanced UX/UI Design Patterns                               │
-│     ████████████████████░░  80% — leading at Google DSC         │
-│                                                                  │
-│  ◉  Vision Transformers & Self-Attention                         │
-│     ███████████████████░░░  74% — ViT shipped, learning more    │
-│                                                                  │
-│  ◉  AI Prompt Engineering & Chain-of-Thought                     │
-│     ████████████████████░░  80% — daily practice                │
-│                                                                  │
-│  ◉  AWS & Cloud Architecture                                     │
-│     ████████████░░░░░░░░░░  50% — certified, deploying more     │
-│                                                                  │
-│  ◉  Kaggle Grandmaster Path                                      │
-│     ████████░░░░░░░░░░░░░░  40% — competing, learning, stacking │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
+| Area | Progress |
+|:---|:---:|
+| 🔴 Full-Stack ML Deployment (FastAPI + React + Docker) | ![62%](https://img.shields.io/badge/62%25-FF6B6B?style=flat-square) |
+| 🟣 Advanced UX / UI Design Patterns | ![80%](https://img.shields.io/badge/80%25-A855F7?style=flat-square) |
+| 🔵 Vision Transformers & Self-Attention | ![74%](https://img.shields.io/badge/74%25-378ADD?style=flat-square) |
+| 🟡 AI Prompt Engineering & Chain-of-Thought | ![80%](https://img.shields.io/badge/80%25-EF9F27?style=flat-square) |
+| ☁️ AWS & Cloud Architecture | ![50%](https://img.shields.io/badge/50%25-46E3B7?style=flat-square) |
+| 🏆 Kaggle Grandmaster Path | ![40%](https://img.shields.io/badge/40%25-20BEFF?style=flat-square) |
 
 </div>
 
 ---
 
-<!-- RANDOM FACTS V2 — dynamic quote card -->
+## 💡 Random Facts About Me
+
+<div align="center">
+
+| &nbsp; | Fact |
+|:---:|:---|
+| 🔬 | I built a Telegram notification library because I missed a training run finishing at 3am. Now it's on PyPI. |
+| 🐦 | My ViT model classifies 200 bird species live on HuggingFace — real inference, real users. |
+| 🌍 | My NASA POWER climate model analyzes satellite data across 15 Indian cities for food security risk. |
+| 🎨 | I'm both a coder and a designer — rare combo in a CS degree. UX Lead + ML engineer simultaneously. |
+| 🏆 | Won IEEE First Runner-Up with HandSpeak, a gesture recognition system for the deaf & mute community. |
+| 📊 | My Kaggle OOF score (0.9165) is higher than my LB score (0.9138) — the model generalizes well. |
+| 🤗 | I have a live deployed model on HuggingFace Spaces with Docker, port 7860, serving real predictions. |
+| ⚡ | I use AWS, Docker, Vercel, and Render in the same project. Some call it overkill. I call it thorough. |
+| 🧠 | I've fine-tuned ViT-B/16 with gradual unfreezing — layer by layer, not all at once. |
+| 🎓 | Certified by Stanford, AWS, and IIT Bhubaneswar — all while competing on Kaggle. |
+
+</div>
+
+---
+
 ## 💬 Vibes
 
 <div align="center">
@@ -413,7 +250,6 @@ Target F1 (Petals)        ██████████████████
 
 ---
 
-<!-- CONNECT -->
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -427,19 +263,10 @@ Target F1 (Petals)        ██████████████████
 
 ---
 
-<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling"/>
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║      "Build systems that learn. Design for humans."  — MAX       ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
 _Trained on curiosity · Deployed with purpose · Maintained with too much ☕_
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_Right.svg)
 
 </div>
