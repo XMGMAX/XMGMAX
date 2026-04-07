@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DEVANSH%20GUPTA&fontSize=68&fontColor=fff&animation=twinkling&fontAlignY=40&desc=ML%20Engineer%20%7C%20UX%20Lead%20%7C%20Kaggle%20Competitor%20%7C%20XMGMAX&descAlignY=62&descSize=16&descColor=ccbbff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DEVANSH%20GUPTA&fontSize=68&fontColor=fff&animation=twinkling&fontAlignY=40&desc=ML%20Engineer%20%7C%20UX%20Lead%20%7C%20Kaggle%20Competitor%20%7C%20&descAlignY=62&descSize=16&descColor=ccbbff"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Building+things+that+think+%F0%9F%A7%A0;Vision+Transformers+%7C+Random+Forests+%7C+FastAPI+%F0%9F%9A%80;UX+Lead+%40+Google+Developer+Student+Clubs+%F0%9F%8E%A8;IEEE+Award+%C2%B7+Stanford+ML+%C2%B7+AWS+Certified+%F0%9F%8F%86)](https://github.com/XMGMAX)
 
