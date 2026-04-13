@@ -60,9 +60,20 @@
 
 <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=XMGMAX&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=ffffff&dates=888888&border_radius=10"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=XMGMAX&theme=react-dark&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ff6b6b&area=true&area_color=a855f7"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=XMGMAX&hide_border=true&bg_color=0b1020&color=66d9ef&line=7aa2f7&point=ff9e64&area=true&area_color=1f6feb&title_color=c792ea&radius=16"/>
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=XMGMAX&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+
+</div>
+
+
+## 🐍 Contribution Snake Arena
+
+<div align="center">
+
+<img width="100%" alt="Snake animation eating contributions" src="https://raw.githubusercontent.com/XMGMAX/XMGMAX/output/github-snake-dark.svg"/>
+<br/>
+<img width="100%" alt="Ocean-style contribution snake gif" src="https://raw.githubusercontent.com/XMGMAX/XMGMAX/output/ocean.gif"/>
 
 </div>
 
