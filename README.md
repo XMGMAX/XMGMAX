@@ -66,17 +66,6 @@
 
 </div>
 
-
-## 🐍 Contribution Snake Arena
-
-<div align="center">
-
-<img width="100%" alt="Snake animation eating contributions" src="https://raw.githubusercontent.com/XMGMAX/XMGMAX/output/github-snake-dark.svg"/>
-<br/>
-<img width="100%" alt="Ocean-style contribution snake gif" src="https://raw.githubusercontent.com/XMGMAX/XMGMAX/output/ocean.gif"/>
-
-</div>
-
 ---
 
 ## 🧠 Tech Stack
