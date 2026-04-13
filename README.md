@@ -71,9 +71,11 @@
 
 <div align="center">
 
-<img width="100%" alt="Snake animation eating contributions" src="https://raw.githubusercontent.com/XMGMAX/XMGMAX/output/github-snake-dark.svg"/>
-<br/>
-<img width="100%" alt="Ocean-style contribution snake gif" src="https://raw.githubusercontent.com/XMGMAX/XMGMAX/output/ocean.gif"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XMGMAX/XMGMAX/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XMGMAX/XMGMAX/output/github-contribution-grid-snake.svg"/>
+  <img width="100%" alt="Snake animation eating contributions" src="https://raw.githubusercontent.com/XMGMAX/XMGMAX/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
