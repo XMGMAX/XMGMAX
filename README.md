@@ -17,37 +17,11 @@
 
 ## ⚡ At a Glance
 
-<table><tr><td width="55%">
-
-🎯 ML Engineer — building AI systems that **actually ship**  
-🎨 **UX Lead** @ Google Developer Student Clubs  
-🏆 **IEEE First Runner-Up** · Stanford ML · AWS Certified  
-🔬 Exploring Vision Transformers, prompt engineering & cloud arch  
-📦 Published `kaggle-notify` on PyPI · Live model on HuggingFace
-
-</td><td width="45%" align="center">
-
-| Metric | Score |
-|:---|:---:|
-| 🧠 Best F1 | **0.8746** |
-| 🏆 Kaggle ROC-AUC | **0.9138** |
-| 🐦 Species Classified | **200** |
-| 📦 PyPI Libraries | **1** |
-
-</td></tr></table>
-
----
-
-## 🚀 Projects
-
-| Project | Stack | Status |
-|:---|:---|:---:|
-| 🌍 **[Climate × Food Security](https://github.com/XMGMAX/BT3109-Spatio-Temporal)** — RF risk classifier, 15 Indian cities, NASA POWER data | `Python` `sklearn` `FastAPI` `React` `Vite` | 🔨 |
-| 🐦 **BirdVision 200** — Fine-tuned ViT-B/16, 200 species, live on HuggingFace Spaces | `PyTorch` `HuggingFace` `Docker` | ✅ |
-| 🤟 **HandSpeak** — Real-time ASL gesture recognition, IEEE award winner | `TensorFlow` `OpenCV` `MediaPipe` | ✅ |
-| 🌸 **Petals to the Metal** — EfficientNetB3, 104 flowers, cosine annealing + TTA | `PyTorch` `TPU` | 🔨 |
-| 👁️ **Smart Attendance** — Vision-based facial recognition, no roll-call | `Python` `OpenCV` | ✅ |
-| 📡 **KaggleNotify** — Telegram push for training runs, published to PyPI | `Python` `Telegram API` | ✅ |
+> 🎯 ML Engineer — building AI systems that **actually ship**
+> 🎨 **UX Lead** @ Google Developer Student Clubs
+> 🏆 **IEEE First Runner-Up** · Stanford ML · AWS Certified
+> 🔬 Exploring Vision Transformers, prompt engineering & cloud arch
+> 📦 Published `kaggle-notify` on PyPI · Live model on HuggingFace
 
 ---
 
@@ -107,13 +81,14 @@
 
 <div align="center">
 
-🥈 **IEEE First Runner-Up** — Code Craft IGNITE FEST 2023 &nbsp;·&nbsp;
-🎓 **Stanford ML Specialization** (Andrew Ng) &nbsp;·&nbsp;
-☁️ **AWS Cloud Practitioner** &nbsp;·&nbsp;
-🎓 **Deep Learning** — IIT Bhubaneswar &nbsp;·&nbsp;
-🏅 **UX Lead** — Google DSC &nbsp;·&nbsp;
-🤗 **Live on HuggingFace** `xmgmax0/bird-classifier` &nbsp;·&nbsp;
-📦 **PyPI Author** `kaggle-notify`
+| 🥈 | **IEEE First Runner-Up** | Code Craft IGNITE FEST 2023 |
+|:---:|:---|:---|
+| 🎓 | **Stanford ML Specialization** | Andrew Ng · Coursera |
+| ☁️ | **AWS Cloud Practitioner** | Amazon Web Services |
+| 🎓 | **Deep Learning Certification** | IIT Bhubaneswar |
+| 🏅 | **UX Lead** | Google Developer Student Clubs |
+| 🤗 | **Live Model on HuggingFace** | `xmgmax0/bird-classifier` |
+| 📦 | **Published PyPI Package** | `kaggle-notify` |
 
 </div>
 
@@ -123,12 +98,14 @@
 
 <div align="center">
 
-`🔴 Full-Stack ML Deployment` ![62%](https://img.shields.io/badge/62%25-FF6B6B?style=flat-square) &ensp;
-`🟣 Advanced UX / UI` ![80%](https://img.shields.io/badge/80%25-A855F7?style=flat-square) &ensp;
-`🔵 Vision Transformers` ![74%](https://img.shields.io/badge/74%25-378ADD?style=flat-square) &ensp;
-`🟡 Prompt Engineering` ![80%](https://img.shields.io/badge/80%25-EF9F27?style=flat-square) &ensp;
-`☁️ AWS Architecture` ![50%](https://img.shields.io/badge/50%25-46E3B7?style=flat-square) &ensp;
-`🏆 Kaggle Grandmaster` ![40%](https://img.shields.io/badge/40%25-20BEFF?style=flat-square)
+| Area | Progress |
+|:---|:---|
+| 🔴 Full-Stack ML Deployment | ![62%](https://img.shields.io/badge/━━━━━━━━━━━━━░░░░░░░-62%25-FF6B6B?style=flat-square) |
+| 🟣 Advanced UX / UI | ![80%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━░░░░-80%25-A855F7?style=flat-square) |
+| 🔵 Vision Transformers | ![74%](https://img.shields.io/badge/━━━━━━━━━━━━━━░░░░░░-74%25-378ADD?style=flat-square) |
+| 🟡 Prompt Engineering | ![80%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━░░░░-80%25-EF9F27?style=flat-square) |
+| ☁️ AWS Architecture | ![50%](https://img.shields.io/badge/━━━━━━━━━━░░░░░░░░░░-50%25-46E3B7?style=flat-square) |
+| 🏆 Kaggle Grandmaster | ![40%](https://img.shields.io/badge/━━━━━━━━░░░░░░░░░░░░-40%25-20BEFF?style=flat-square) |
 
 </div>
 
