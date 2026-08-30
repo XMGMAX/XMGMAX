@@ -1,123 +1,200 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DEVANSH%20GUPTA&fontSize=68&fontColor=fff&animation=twinkling&fontAlignY=40&desc=ML%20Engineer%20%7C%20UX%20Lead%20%7C%20Kaggle%20Competitor%20%7C%20XMGMAX&descAlignY=62&descSize=16&descColor=ccbbff"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Building+things+that+think+%F0%9F%A7%A0;Vision+Transformers+%7C+Random+Forests+%7C+FastAPI+%F0%9F%9A%80;UX+Lead+%40+Google+Developer+Student+Clubs+%F0%9F%8E%A8;IEEE+Award+%C2%B7+Stanford+ML+%C2%B7+AWS+Certified+%F0%9F%8F%86)](https://github.com/XMGMAX)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=XMGMAX&color=blueviolet&style=flat-square&label=VIEWS)](https://github.com/XMGMAX)
-[![GitHub followers](https://img.shields.io/github/followers/XMGMAX?style=flat-square&color=a855f7&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/XMGMAX?tab=followers)
-[![Kaggle](https://img.shields.io/badge/Kaggle-0.9138_ROC--AUC-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/xmgmax)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-gupta-xmg/)
-[![HuggingFace](https://img.shields.io/badge/🤗_Spaces-xmgmax0-FFD21E?style=flat-square)](https://huggingface.co/xmgmax0)
-[![PyPI](https://img.shields.io/badge/PyPI-kaggle--notify-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/kaggle-notify)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=devansh%40localhost%3A~%24+whoami;%3E+B.Tech+CSE+(AI%2FML)+%40+IILM+University;%3E+building+data+pipelines+%2B+ML+systems;%3E+open+to+Data+Engineering+%2F+SDE+internships" alt="Typing SVG" />
 
 </div>
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/-DATA_ENGINEERING-000000?style=for-the-badge&logo=apacheairflow&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/-SOFTWARE_DEV-000000?style=for-the-badge&logo=github&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/-ML_%2F_AI-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14" />
+</div>
 
-## ⚡ At a Glance
+<br>
 
-> 🎯 ML Engineer — building AI systems that **actually ship**
-> 🎨 **UX Lead** @ Google Developer Student Clubs
-> 🏆 **IEEE First Runner-Up** · Stanford ML · AWS Certified
-> 🔬 Exploring Vision Transformers, prompt engineering & cloud arch
-> 📦 Published `kaggle-notify` on PyPI · Live model on HuggingFace
+```bash
+$ cat about.md
+```
 
----
+I'm **Devansh Gupta (MAX)**, a final-year B.Tech CSE student specializing in AI/ML at IILM University
+(Class of 2027). I build things end-to-end — from ETL pipelines and model training to shipping
+the API and frontend that sits on top of them. Currently deep in a data-engineering focused
+prep track (SQL → PySpark → Airflow → dbt → Docker) while actively competing on Kaggle.
 
-## 📊 GitHub Stats
+- 🔭 Currently building **Daily Digest Bot** — a Python pipeline that aggregates GitHub, Kaggle,
+  LeetCode, and Gmail activity, summarizes it with an LLM, and delivers it via Telegram twice a day
+- 📊 Competing on Kaggle — Playground Series S6E3 (GBDT ensembles, Optuna, pseudo-labeling)
+- 📄 Co-authored an IEEE-submitted paper on spatio-temporal food security classification
+- 🎯 Looking for **Data Engineering** and **SDE** internship roles
+- ⚡ Fun fact: I published my own PyPI package ([`kaggle-notify`](https://pypi.org/project/kaggle-notify/)) because I was tired of babysitting training runs
+
+<br>
+
+```bash
+$ ls tech_stack/
+```
 
 <div align="center">
 
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=XMGMAX&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&border_radius=10&include_all_commits=true&count_private=true"/>
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XMGMAX&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&border_radius=10&langs_count=8"/>
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC" />
 
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=XMGMAX&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=ffffff&dates=888888&border_radius=10"/>
+**ML / Data**
+<br>
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+<img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/PySpark-000000?style=for-the-badge&logo=apachespark&logoColor=E25A1C" />
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=XMGMAX&hide_border=true&bg_color=0b1020&color=66d9ef&line=7aa2f7&point=ff9e64&area=true&area_color=1f6feb&title_color=c792ea&radius=16"/>
+**Backend / Infra**
+<br>
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Airflow-000000?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" />
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=XMGMAX&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+**Databases**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+
+**Tools**
+<br>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff" />
 
 </div>
 
----
+<br>
 
-## 🧠 Tech Stack
+```bash
+$ ls projects/ --sort=featured
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 Daily Digest Bot**
+<br>
+Aggregates GitHub, Kaggle, LeetCode &amp; Gmail activity, summarizes with an LLM (Groq),
+delivers via Telegram — fully automated with GitHub Actions.
+<br><br>
+`Python` `Groq` `GitHub Actions` `Telegram API`
+<br>
+[→ repo](https://github.com/XMGMAX/daily-digest-bot)
+
+</td>
+<td width="50%" valign="top">
+
+**🐦 BirdVision**
+<br>
+ViT-B/16 fine-tuned on CUB-200-2011 for 200-species bird classification.
+Backend on Hugging Face Spaces, frontend on Vercel.
+<br><br>
+`PyTorch` `Vision Transformer` `HuggingFace` `React`
+<br>
+[→ repo](https://github.com/XMGMAX/bird-app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌾 Spatio-Temporal Food Security**
+<br>
+ML pipeline on 23 years of NASA POWER climate data across 15 Indian cities.
+Random Forest model, weighted F1 = 0.87. Deployed API + dashboard.
+<br><br>
+`scikit-learn` `FastAPI` `React` `NASA POWER API`
+<br>
+[→ repo](https://github.com/XMGMAX/BT3109-Spatio-Temporal)
+
+</td>
+<td width="50%" valign="top">
+
+**📦 kaggle-notify**
+<br>
+Open-source PyPI package that pings your phone via Telegram when a
+Kaggle training run finishes.
+<br><br>
+`Python` `PyPI` `Telegram API`
+<br>
+[→ PyPI](https://pypi.org/project/kaggle-notify/) · [→ repo](https://github.com/XMGMAX/kaggle-notify)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+```bash
+$ git log --stats --author=devansh
+```
 
 <div align="center">
 
-**ML / AI**&ensp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=XMGMAX&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XMGMAX&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
 
-**Web & DevOps**&ensp;
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
-**Data & Design**&ensp;
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=XMGMAX&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 
 </div>
 
----
-
-## 🏅 Achievements
-
+<details>
+<summary><b>🏆 trophies</b></summary>
+<br>
 <div align="center">
-
-| 🥈 | **IEEE First Runner-Up** | Code Craft IGNITE FEST 2023 |
-|:---:|:---|:---|
-| 🎓 | **Stanford ML Specialization** | Andrew Ng · Coursera |
-| ☁️ | **AWS Cloud Practitioner** | Amazon Web Services |
-| 🎓 | **Deep Learning Certification** | IIT Bhubaneswar |
-| 🏅 | **UX Lead** | Google Developer Student Clubs |
-| 🤗 | **Live Model on HuggingFace** | `xmgmax0/bird-classifier` |
-| 📦 | **Published PyPI Package** | `kaggle-notify` |
-
+<img src="https://github-profile-trophy.vercel.app/?username=XMGMAX&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10" />
 </div>
+</details>
 
----
+<br>
 
-## 🌱 Currently Exploring
+```bash
+$ cat achievements.log
+```
+
+- 🥈 2nd place, 50+ teams — Code Craft, IGNITE FEST 2023, IILM University
+- 🚩 Finalist, 200+ participants — TriNetra CTF 2026, Shiv Nadar Institution of Eminence
+- 🏆 Winner — Bug Hunter & Code Arcade, organised by IEEE
+- 📝 IEEE ICMLA paper on spatio-temporal food security classification (submitted)
+- 📈 ROC-AUC 0.914 — Kaggle Playground Series S6E3 (GBDT ensemble + stacking + Optuna)
+- 🗺️ Published dataset: [CropClimate India (2000–2023)](https://kaggle.com/devanshxmg) on Kaggle
+- 🎓 Certifications — Stanford/DeepLearning.AI (ML Specialization), AWS (Prompt Engineering), IIT Bhubaneswar (UI/UX), Kaggle (AI Ethics)
+- 🎨 UX Lead @ GDSC · Head of Design, Law Dept. · Founding Member, Satat Sathi (IILM Incubation Cell)
+
+<br>
+
+```bash
+$ curl devansh.dev/contact
+```
 
 <div align="center">
 
-| Area | Progress |
-|:---|:---|
-| 🔴 Full-Stack ML Deployment | ![62%](https://img.shields.io/badge/━━━━━━━━━━━━━░░░░░░░-62%25-FF6B6B?style=flat-square) |
-| 🟣 Advanced UX / UI | ![80%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━░░░░-80%25-A855F7?style=flat-square) |
-| 🔵 Vision Transformers | ![74%](https://img.shields.io/badge/━━━━━━━━━━━━━━░░░░░░-74%25-378ADD?style=flat-square) |
-| 🟡 Prompt Engineering | ![80%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━░░░░-80%25-EF9F27?style=flat-square) |
-| ☁️ AWS Architecture | ![50%](https://img.shields.io/badge/━━━━━━━━━━░░░░░░░░░░-50%25-46E3B7?style=flat-square) |
-| 🏆 Kaggle Grandmaster | ![40%](https://img.shields.io/badge/━━━━━━━━░░░░░░░░░░░░-40%25-20BEFF?style=flat-square) |
+<a href="https://www.linkedin.com/in/devansh-gupta-xmg/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="mailto:devansh.xmg@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+<a href="https://kaggle.com/devanshxmg">
+<img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF" />
+</a>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devansh_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-gupta-xmg/)
-[![GitHub](https://img.shields.io/badge/GitHub-XMGMAX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XMGMAX)
-[![Kaggle](https://img.shields.io/badge/Kaggle-xmgmax-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/xmgmax)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-xmgmax0-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/xmgmax0)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=XMGMAX&label=profile+views&color=39FF14&style=flat" />
 
 </div>
