@@ -16,7 +16,7 @@
 $ cat about.md
 ```
 
-I'm **Devansh Gupta (MAX)**, a final-year B.Tech CSE student specializing in AI/ML at IILM University
+I'm **Devansh Gupta (MAX)**, a final-year B.Tech CSE student specializing in AI/ML 
 (Class of 2027). I build things end-to-end — from ETL pipelines and model training to shipping
 the API and frontend that sits on top of them. Currently deep in a data-engineering focused
 prep track (SQL → PySpark → Airflow → dbt → Docker) while actively competing on Kaggle.
