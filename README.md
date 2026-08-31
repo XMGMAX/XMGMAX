@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/-ML_%2F_AI-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14" />
 </div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:39FF14,100:0D1117&height=3&animation=fadeIn" />
 
 ```bash
 $ cat about.md
@@ -27,6 +27,12 @@ prep track (SQL → PySpark → Airflow → dbt → Docker) while actively compe
 - 📄 Co-authored an IEEE-submitted paper on spatio-temporal food security classification
 - 🎯 Looking for **Data Engineering** and **SDE** internship roles
 - ⚡ Fun fact: I published my own PyPI package ([`kaggle-notify`](https://pypi.org/project/kaggle-notify/)) because I was tired of babysitting training runs
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-quotes.vercel.app/quote?theme=dark&border_color=39FF14&animation=grow_out_in" alt="Dev quote" />
+</div>
 
 <br>
 
@@ -150,6 +156,8 @@ $ git log --stats --author=devansh
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=XMGMAX&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=XMGMAX&theme=github-compact&bg_color=0D1117&color=39FF14&line=39FF14&point=c9d1d9&area=true&hide_border=true" />
+
 </div>
 
 <details>
@@ -175,7 +183,7 @@ $ cat achievements.log
 - 🎓 Certifications — Stanford/DeepLearning.AI (ML Specialization), AWS (Prompt Engineering), IIT Bhubaneswar (UI/UX), Kaggle (AI Ethics)
 - 🎨 UX Lead @ GDSC · Head of Design, Law Dept. · Founding Member, Satat Sathi (IILM Incubation Cell)
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:39FF14,100:0D1117&height=3&animation=fadeIn" />
 
 ```bash
 $ curl devansh.dev/contact
@@ -198,3 +206,5 @@ $ curl devansh.dev/contact
 <img src="https://komarev.com/ghpvc/?username=XMGMAX&label=profile+views&color=39FF14&style=flat" />
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:39FF14,100:0D1117&height=3&animation=fadeIn" />
