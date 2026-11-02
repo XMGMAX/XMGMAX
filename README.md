@@ -1,16 +1,13 @@
+![Hi, I'm devansh](https://piixpal.dvkk.dev/readme?text=Hi,%20I%27m%20devansh&pals=fetch,tabby&theme=paper&size=7)
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=devansh%40localhost%3A~%24+whoami;B.Tech+CSE+(AI%2FML)+%40+IILM+University;building+data+pipelines+%2B+ML+systems;open+to+Data+Engineering+%2F+SDE+internships" alt="Typing SVG" />
-
-<br>
-
-<img src="https://img.shields.io/badge/-DATA_ENGINEERING-000000?style=for-the-badge&logo=apacheairflow&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/-SOFTWARE_DEV-000000?style=for-the-badge&logo=github&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/-ML_%2F_AI-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-DATA_ENGINEERING-000000?style=for-the-badge&logo=apacheairflow&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/-SOFTWARE_DEV-000000?style=for-the-badge&logo=github&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/-ML_%2F_AI-000000?style=for-the-badge&logo=pytorch&logoColor=A855F7" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:39FF14,100:0D1117&height=3&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=3&animation=fadeIn" />
 
 ```bash
 $ cat status.txt
@@ -67,8 +64,6 @@ $ git log --stats --author=devansh
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=XMGMAX&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=XMGMAX&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 
-<img width="100%" src="https://ghchart.rshah.org/39FF14/XMGMAX" alt="GitHub contribution chart" />
-
 </div>
 
 ```bash
@@ -101,3 +96,4 @@ $ curl devansh.dev/contact
 
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:39FF14,100:0D1117&height=3&animation=fadeIn" />
+
