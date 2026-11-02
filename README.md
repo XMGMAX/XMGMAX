@@ -1,13 +1,13 @@
 ![Hi, I'm devansh](https://piixpal.dvkk.dev/readme?text=Hi,%20I%27m%20devansh&pals=fetch,tabby&theme=paper&size=7)
 <div align="center">
 
-<img src="https://img.shields.io/badge/-DATA_ENGINEERING-000000?style=for-the-badge&logo=apacheairflow&logoColor=A855F7" />
-<img src="https://img.shields.io/badge/-SOFTWARE_DEV-000000?style=for-the-badge&logo=github&logoColor=A855F7" />
-<img src="https://img.shields.io/badge/-ML_%2F_AI-000000?style=for-the-badge&logo=pytorch&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/-DATA_ENGINEERING-000000?style=for-the-badge&logo=apacheairflow&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/-SOFTWARE_DEV-000000?style=for-the-badge&logo=github&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/-ML_%2F_AI-000000?style=for-the-badge&logo=pytorch&logoColor=C4B5FD" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=3&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:C4B5FD,100:0D1117&height=3&animation=fadeIn" />
 
 ```bash
 $ cat status.txt
@@ -61,8 +61,8 @@ $ git log --stats --author=devansh
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=XMGMAX&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=XMGMAX&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=XMGMAX&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=C4B5FD&text_color=c9d1d9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=XMGMAX&theme=github-dark-blue&hide_border=true&background=0D1117&ring=C4B5FD&fire=C4B5FD&currStreakLabel=C4B5FD" />
 
 </div>
 
@@ -82,7 +82,7 @@ $ cat achievements.log
 [founder]  Founding Member, Satat Sathi (IILM Incubation Cell)
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:39FF14,100:0D1117&height=3&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:C4B5FD,100:0D1117&height=3&animation=fadeIn" />
 
 ```bash
 $ curl devansh.dev/contact
@@ -95,5 +95,4 @@ $ curl devansh.dev/contact
 <a href="https://kaggle.com/devanshxmg"><img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF" /></a>
 
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:39FF14,100:0D1117&height=3&animation=fadeIn" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:C4B5FD,100:0D1117&height=3&animation=fadeIn" />
